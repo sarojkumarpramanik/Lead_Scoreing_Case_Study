@@ -1,7 +1,5 @@
 # Lead Scoreing Case Study
 
-<img src = 'https://github.com/sarojkumarpramanik/Lead_Scoreing_Case_Study/blob/9eee125dff0c973e83991b82e82e4ce031db70d6/image-20221222-235101.png' >
-
 ## Problem Statement
 
 An education company named X Education sells online courses to industry professionals. On any given day, many professionals who are interested in the courses land on their website and browse for courses.
@@ -27,3 +25,11 @@ X Education has appointed you to help them select the most promising leads, i.e.
 4. Model Building
 5. Model Evaluation
 6. Making Predictions on the Test Set
+
+## Details of files given
+
+- **Assignment Subjective Questions_V2.pdf :** Answer to the Questiones asked by the Business
+- **Lead_Scoreing_Assignment_V2.pdf :** Presentation to the Management covering the technical and business aspects.
+- **Lead_Scoring_Assignment_Summary_V2.pdf :** Summary of the steps followed and the technical details.
+- **Lead_Scoring_Assignment_V2.ipynb :** The python notebook file having coding of data analysis And Model details.
+- **Leads.csv :** The input data Considired.

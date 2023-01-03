@@ -1,5 +1,7 @@
 # Lead Scoreing Case Study
 
+<img src = 'https://github.com/sarojkumarpramanik/Lead_Scoreing_Case_Study/blob/afba1db0aedc55ea1e06ad490ddd43ad0b317d0d/image-20221222-235101.png' >
+
 ## Problem Statement
 
 An education company named X Education sells online courses to industry professionals. On any given day, many professionals who are interested in the courses land on their website and browse for courses.
